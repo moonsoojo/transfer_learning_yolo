@@ -1,7 +1,7 @@
 # Transfer Learning and Computer Vision
 Fine tune a pre-trained computer vision model to test the effectiveness of transfer learning.
 
-Domain: medical field - colonoscopy. 27k training images, 4k validation
+**Domain**: medical field - colonoscopy. 27k training images, 4k validation
 
 **Model**: YOLOv8x
 
